@@ -1,0 +1,18 @@
+.same15{
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.same15.cooler{
+    font-size: 24px;
+}
+#number2{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#number4{
+    font-weight: bold;
+    background-color:#63e563;
+    font-size: 24px;
+}
